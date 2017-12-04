@@ -1,0 +1,22 @@
+@media screen and (max-width: 44em) {
+    .header {
+        max-height: 130px;
+        height: auto;
+    }
+    .header_menu ul li a {
+        font-size: calc(10px + 1vw);
+    }
+    .parallax-window h1 {
+        font-size: calc(10px + 3vw);
+        line-height:  calc(30px + 3vw);
+    }
+    h1, .parallax-window h2 {
+        font-size: calc(10px + 3vw);
+    }
+    .media_size {
+        font-size: calc(7px + 2vw);
+    }
+    
+    
+    
+}
